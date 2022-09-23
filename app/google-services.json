@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "975133914870",
+    "project_id": "immoverpush",
+    "storage_bucket": "immoverpush.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975133914870:android:39cc50b87cf44d14af1ed7",
+        "android_client_info": {
+          "package_name": "com.mpyatech.immover"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975133914870-v4nspm93cjgg57vm1tlimg9ft6kj50b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxeRp8arZrKFLAkqVrfCgeNhjgtffkY2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975133914870-v4nspm93cjgg57vm1tlimg9ft6kj50b6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
